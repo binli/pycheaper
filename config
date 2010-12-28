@@ -1,0 +1,13 @@
+[General]
+site_list=newsmth
+[newsmth]
+# http://www.newsmth.net/bbsdoc.php?board=SecondMarket&ftype=6
+link="http://www.newsmth.net/bbsdoc.php"
+board_list="SecondMarket,SecondDigi,SecondComputer"
+ftype=6
+[SecondMarket]
+keyword_list="奶粉"
+[SecondDigi]
+keyword_list="充值卡"
+[SecondComputer]
+keyword_list="显示器"
